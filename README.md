@@ -1,4 +1,4 @@
-# Abhinav Adarsh CSE(Core) SEC - D
+# Abhinav Adarsh CSE(Core)
 
 **Project Title:** Ai Powered Mental Health Support
 
