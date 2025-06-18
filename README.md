@@ -27,7 +27,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhinavgautam08/Abhinav-Adarsh-CSE-Core-Sec-D-AI-Powered-Mental-Health-Support.git
+   git clone https://github.com/abhinavgautam08/AI_Powered_Mental_Health_Support.git
    ```
 2. Install dependencies:
 
@@ -51,9 +51,9 @@
   ```
 
 ### Linting
-  ```bash
-  npm run lint
-  ```
+    ```bash
+     npm run lint
+    ```
 
 ## Usage
 - Start the development server and open your browser to the provided localhost URL.
