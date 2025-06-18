@@ -51,9 +51,9 @@
   ```
 
 ### Linting
-    ```bash
+   ```bash
      npm run lint
-    ```
+   ```
 
 ## Usage
 - Start the development server and open your browser to the provided localhost URL.
